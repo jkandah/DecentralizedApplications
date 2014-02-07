@@ -190,10 +190,6 @@ Here are some existing and planned Decentralized Apps that will appear in the co
   * Arbitrationcoin, Type III Decentralized App&nbsp;– Lets two parties settle disputes trust-lessly.
   * Ai-coin, Type III Decentralized App - &nbsp;Providing intelligent automated actions to users
 
-### 12\. These Decentralized Apps will surpass in utility, user adoption and network value the world’s largest corporations.
-
-Surpassing Western Union, Visa, Facebook, Google, Amazon and other Multinational Corporations is not only possible utilizing the Decentralized Application model, it is in fact inevitable. Either these corporations will be surpassed by Decentralized Applications or they will adopt the characteristics of Decentralized Applications to a point where there isn’t a real distinction between the two. &nbsp;
-
 ### 13\. Conclusion.
 
  Classifying this wave of new entities as Decentralized Applications is a more helpful way to understand the immense potential of the model pioneered by Bitcoin. We agree with other writers who have put forth that by transitioning from the classification of “digital currencies” to that of an Decentralized Applications, revolutionary new projects can be designed and developed.
@@ -230,57 +226,11 @@ This white paper is focused on Decentralized Applications that have a finite num
 
 The Bitcoin Open Source project is not a Corporation. Its a set of applications that implement the Bitcoin Protocol. It has no employees, it will pay no dividends, it will never borrows against its stock, it will never do a stock split, and it is not incorporated by a state. And that's a good thing. I can trust the Bitcoin system and its elegant protocol.
 
-**III. Our Classifications Is Fundamentally Different**
-
-As stated in the introduction we have developed a simpler definition to classify these Decentralized Applications, which excludes many of these “Corporate” legacies:
-
-We define Decentralized Applications as follows:
-
-  * Qualification 1. To qualify as “Decentralized” an application must be completely open source, it must operate autonomously with no one entity controlling the majority of its tokens, and its data / records of operation must be cryptographically stored in a decentralized blockchain.
-  * Qualification 2. Decentralized Apps must also generate tokens according to a standard algorithm / criteria over time and / or distribute tokens at the beginning of their operation (in accordance with their protocol) to reward predefined value adding behaviors by users. These same tokens must be utilized by users to access the features of the Decentralized App.
-  * Qualification 3. The Decentralized App can adapt its protocol in response to proposed developer improvements and market feedback, though all changes which are accepted into the protocol must be based on the majority consensus of its users through Proof of Work, Proof of Stake, or a similar mechanism(s).
 
 Section B. What about Open Source Apps Based on an Existing Blockchain?&nbsp;
 
 There are a number of excellent open source projects being developed on existing Type I Decentralized Apps; examples include the Colored Coins[[7]][10]&nbsp;and Coinjoin[[8]][11]&nbsp;projects being developed on Bitcoin. These open source projects benefit Bitcoin users generally with additional meta data storage and privacy respectively. However the lack of an independent token for users to access / hold a stake in the operation and development of these applications, leaves the development and operation of these projects dependent on donations and unable to achieve a self sustaining and “Decentralized Application” status.
 
-Section C. Etymology - Decentralized Applications part of a larger framework
-
-For etymology, I believe considering that at some point we will need a metaphor set out of which the language for development would evolve. It needs to be well grounded, accessible to all with minor effort and have an inherent virtue of simplexity[[9]][12]. Hopefully so much so that it perhaps could also be utilized at points of conceptual interfaces for the end user. The key to this all is the name, one that would spawn a general terminology for this very new thing we are doing here. I think the metaphor set based on conception would fit well. A[&nbsp;][13][Zygote][13]. A Zygote is the first point where the first generation ends and the next begins.
-
-It acclimates, responding to the outside world without changing the genes. It can't be regulated. It's stuck with it's own genes. It’s clearly recursive. As I see it the Zygote metaphor follows whatever requirements a Decentralized Application does. Namely, Autonomous (stuck with it’s own genes) Application (of course, it’s a cell) Clearly it is distributed, and it’s is also like a company where a group of components authorized to act as a single entity (legally a person&nbsp;predefined sovereignty) and recognized as such in law&nbsp;global consensus.”&nbsp;Self sustaining.
-
-It’s not a cell though, so what is it? It’s bits and pieces of code. Let’s be audacious enough to say bits, Zygotic bits, “zybits.” Fresh and familiare.
-
-etymology: zygote
-
-Zygotic Protocol = ZyProtocol &nbsp;
-
-Zygotic Application = ZyApp
-
-Zygotic ENtity = ZEN
-
-Zygosis (relation to meiosis and/or mitosis)
-
-Zygonomics = Zypotic Economics
-
-Zygotic Bit = ZyBit
-
-ZyAngels
-
-ZENangels
-
-**just examples below**
-
-ZyCoding
-
-ZyMarketing
-
-ZyCapital
-
-ZyBranding
-
-ZyDesign
 
 References
 
