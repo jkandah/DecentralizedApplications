@@ -1,26 +1,44 @@
 # The Emerging Wave of Decentralized Applications
 
-Decentralized Applications: Version 0.2
+Decentralized Applications: Version 0.3
 
-By: David Johnston, Steven Mason, Farzad Hashemi, Ron Gross, and Sam Yilmaz
+By: David Johnston, Jeremy Kandah, Steven Mason, Farzad Hashemi, Ron Gross, and Sam Yilmaz
 
 ### Introduction: The Emerging Wave of Decentralized Applications
 
-A new model for building successful and massively scalable applications is emerging. Bitcoin led the way with its open-source, peer-to-peer nature, cryptographically-stored records (blockchain), and limited number of tokens to power the use of its features.
+Decentralized Applications are open source protocols with a consensus mechanism that utilizes a blockchain cryptocurrency for value exchange.
 
-Now [hundreds of additional applications](https://en.bitcoin.it/wiki/List_of_Decentralized_Autonomous_Corporations) are adopting this model for success including [BitShares][1], [Mastercoin](http://www.mastercoin.org/), and Meshcoin&nbsp;just to name a few.
+The concept emerged from Bitcoin with it's open-source, peer-to-peer network which decentralizes storage of a public ledger (blockchain) for valuing a scarce token.
 
 There are a variety of methods being used to build these "Decentralized Applications", some create their own blockchains, in some cases they work symbiotically on top of an existing blockchain with their own tokens, and others operate at two layers above the blockchain with their own tokens.
 
 This paper describes why this model has become so successful and offers new ways to classify and describe the different variations of this model using terminology that is more accurate and better serves the community.
 
-This paper defines “Decentralized Applications” as follows:
+“Decentralized Applications” require the four features:
 
-  * Qualification 1. To qualify as “Decentralized” an application must be completely [open source](https://en.wikipedia.org/wiki/Open_source), it must operate autonomously with no one entity controlling the majority of its tokens, and its data / records of operation must be cryptographically stored in a decentralized [blockchain](https://en.bitcoin.it/wiki/Block_chain).
-  * Qualification 2. Decentralized Apps must also generate tokens according to a standard algorithm / criteria over time and / or distribute tokens at the beginning of their operation (in accordance with their protocol) to reward predefined value adding behaviors by users. These same tokens must be utilized by users to access the features of the Decentralized App.
-  * Qualification 3. The Decentralized App can adapt its protocol in response to proposed developer improvements and market feedback, though all changes which are accepted into the protocol must be based on the majority consensus of its users.
+  * Qualification 1. Open Source: To qualify as “Decentralized” an application must be completely [open source](https://en.wikipedia.org/wiki/Open_source). This removes central ownership of the application and allows anyone to contribute to source creation.
+  * Qualification 2. Token Economy:  Decentralized Applications must use a token which is distributed according to an algorithm.  The algorithm may distribute over a time period and can have custom defined rules established by the application. These Tokens must be used for the applications economy such to reward predefined value adding behavior (e.g. Bitcoin Mining). Users must use these Tokens to access the features of the application.
+  * Qualification 3. Consensus Mechanism: The Decentralized Application can adapt business rules in response to proposed developer improvements and market feedback, though all changes which are accepted into the application must be based on the majority consensus of its users.
+  * Qualification 4. Blockchain: Token records of operation must be cryptographically stored in a decentralized [blockchain](https://en.bitcoin.it/wiki/Block_chain). The currency cannot be managed by a private party as it would create a central fail point.
 
 Finally this paper will postulate that these Decentralized Applications will one day surpass the world’s largest existing software corporations in utility, user base, and network valuation due to their superior incentivization structure, flexibility, transparency, resiliency, and distributed nature.
+
+[Hundreds of additional applications](https://en.bitcoin.it/wiki/List_of_Decentralized_Autonomous_Corporations) are adopting this model for success including [BitShares][1], [Mastercoin](http://www.mastercoin.org/) and [Ethereum] (ethereum.org).
+
+## Types of Decentralized Applications
+
+
+## Open Source
+
+Open Source software is the only way to develop Decentralized Applications. Open Source democratizes software development and removes the potential for a centralized party to control the application.
+
+## Token Economy
+
+## Consensus Mechanism
+
+## Blockchain
+
+## Economies of Decentralized Applications
 
 ## Table of Contents:
 
